@@ -5,6 +5,7 @@ Project for the **Information Retrieval and Web Search** course for the 2023/202
 ## Requirements
 
 - `rich` is a Python library for rich text and beautiful formatting in the terminal.
+  
 	```
 	pip install rich
 	```
