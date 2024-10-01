@@ -1,6 +1,6 @@
 # Clustering documents to compress inverted index 
 Project for the **Information Retrieval and Web Search** course for the 2023/2024 academic year.
-> For further information, see report.pdf
+> For further information, see IRWS_Project_Report.pdf
 
 ## Requirements
 
